@@ -94,3 +94,4 @@ Once you are done, you can run your tests by running `npm test`.
 ## Check Your Work
 Since the `isSameFirstLastCharacter()` function has been implemented correctly, all of your test cases should `PASS`. If any do not pass, review the tests you wrote and check if you've made any mistakes. Remember, tests can have bugs too!
 # testingLab
+# testingLab
